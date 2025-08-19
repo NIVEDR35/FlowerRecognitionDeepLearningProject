@@ -1,0 +1,15 @@
+# Core scientific libraries
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Deep learning frameworks
+tensorflow
+torch
+torchvision
+torchaudio
+
+# Jupyter support
+notebook
